@@ -1,0 +1,74 @@
+!SESSION 2018-10-22 22:21:48.880 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-10-22 22:22:30.166
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\srinivas1'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.jface.text 2 0 2018-10-22 22:24:14.905
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-10-22 22:24:14.912
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-10-22 22:24:15.201
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-10-22 22:24:15.210
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.testng.eclipse 1 0 2018-10-22 22:31:13.865
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\srinivas1\Desktop\Neoneclipse\configuration\org.eclipse.osgi\969\0\.cp\lib\testng-remote.jar C:\Users\srinivas1\Desktop\IrfanSelenium\Testing\bin C:\Users\srinivas1\Desktop\KrishnaSelenium\WebApplicationTesting\library\selenium-server-standalone-2.53.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 20752 -protocol json -d C:\Users\srinivas1\Desktop\IrfanSelenium\Testing\test-output C:\Users\SRINIV~1\AppData\Local\Temp\testng-eclipse-1002570486\testng-customsuite.xml
+java -ea -classpath C:\Users\srinivas1\Desktop\Neoneclipse\configuration\org.eclipse.osgi\969\0\.cp\lib\testng-remote.jar:C:\Users\srinivas1\Desktop\IrfanSelenium\Testing\bin:C:\Users\srinivas1\Desktop\KrishnaSelenium\WebApplicationTesting\library\selenium-server-standalone-2.53.1.jar org.testng.remote.RemoteTestNG -serport 20752 -protocol json -d C:\Users\srinivas1\Desktop\IrfanSelenium\Testing\test-output C:\Users\SRINIV~1\AppData\Local\Temp\testng-eclipse-1002570486\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-10-22 22:31:47.363
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\srinivas1\Desktop\Neoneclipse\configuration\org.eclipse.osgi\969\0\.cp\lib\testng-remote.jar C:\Users\srinivas1\Desktop\IrfanSelenium\Testing\bin C:\Users\srinivas1\Desktop\KrishnaSelenium\WebApplicationTesting\library\selenium-server-standalone-2.53.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 20754 -protocol json -d C:\Users\srinivas1\Desktop\IrfanSelenium\Testing\test-output C:\Users\SRINIV~1\AppData\Local\Temp\testng-eclipse--1540589096\testng-customsuite.xml
+java -ea -classpath C:\Users\srinivas1\Desktop\Neoneclipse\configuration\org.eclipse.osgi\969\0\.cp\lib\testng-remote.jar:C:\Users\srinivas1\Desktop\IrfanSelenium\Testing\bin:C:\Users\srinivas1\Desktop\KrishnaSelenium\WebApplicationTesting\library\selenium-server-standalone-2.53.1.jar org.testng.remote.RemoteTestNG -serport 20754 -protocol json -d C:\Users\srinivas1\Desktop\IrfanSelenium\Testing\test-output C:\Users\SRINIV~1\AppData\Local\Temp\testng-eclipse--1540589096\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-10-22 22:32:34.258
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\srinivas1\Desktop\Neoneclipse\configuration\org.eclipse.osgi\969\0\.cp\lib\testng-remote.jar C:\Users\srinivas1\Desktop\IrfanSelenium\Testing\bin C:\Users\srinivas1\Desktop\KrishnaSelenium\WebApplicationTesting\library\selenium-server-standalone-2.53.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 20757 -protocol json -d C:\Users\srinivas1\Desktop\IrfanSelenium\Testing\test-output C:\Users\SRINIV~1\AppData\Local\Temp\testng-eclipse--907784424\testng-customsuite.xml
+java -ea -classpath C:\Users\srinivas1\Desktop\Neoneclipse\configuration\org.eclipse.osgi\969\0\.cp\lib\testng-remote.jar:C:\Users\srinivas1\Desktop\IrfanSelenium\Testing\bin:C:\Users\srinivas1\Desktop\KrishnaSelenium\WebApplicationTesting\library\selenium-server-standalone-2.53.1.jar org.testng.remote.RemoteTestNG -serport 20757 -protocol json -d C:\Users\srinivas1\Desktop\IrfanSelenium\Testing\test-output C:\Users\SRINIV~1\AppData\Local\Temp\testng-eclipse--907784424\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-10-22 22:32:41.774
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\srinivas1\Desktop\Neoneclipse\configuration\org.eclipse.osgi\969\0\.cp\lib\testng-remote.jar C:\Users\srinivas1\Desktop\IrfanSelenium\Testing\bin C:\Users\srinivas1\Desktop\KrishnaSelenium\WebApplicationTesting\library\selenium-server-standalone-2.53.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 20759 -protocol json -d C:\Users\srinivas1\Desktop\IrfanSelenium\Testing\test-output C:\Users\SRINIV~1\AppData\Local\Temp\testng-eclipse--1275973798\testng-customsuite.xml
+java -ea -classpath C:\Users\srinivas1\Desktop\Neoneclipse\configuration\org.eclipse.osgi\969\0\.cp\lib\testng-remote.jar:C:\Users\srinivas1\Desktop\IrfanSelenium\Testing\bin:C:\Users\srinivas1\Desktop\KrishnaSelenium\WebApplicationTesting\library\selenium-server-standalone-2.53.1.jar org.testng.remote.RemoteTestNG -serport 20759 -protocol json -d C:\Users\srinivas1\Desktop\IrfanSelenium\Testing\test-output C:\Users\SRINIV~1\AppData\Local\Temp\testng-eclipse--1275973798\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-10-22 22:34:24.106
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\srinivas1\Desktop\Neoneclipse\configuration\org.eclipse.osgi\969\0\.cp\lib\testng-remote.jar C:\Users\srinivas1\Desktop\IrfanSelenium\Testing\bin C:\Users\srinivas1\Desktop\KrishnaSelenium\WebApplicationTesting\library\selenium-server-standalone-2.53.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 20818 -protocol json -d C:\Users\srinivas1\Desktop\IrfanSelenium\Testing\test-output C:\Users\SRINIV~1\AppData\Local\Temp\testng-eclipse--916897449\testng-customsuite.xml
+java -ea -classpath C:\Users\srinivas1\Desktop\Neoneclipse\configuration\org.eclipse.osgi\969\0\.cp\lib\testng-remote.jar:C:\Users\srinivas1\Desktop\IrfanSelenium\Testing\bin:C:\Users\srinivas1\Desktop\KrishnaSelenium\WebApplicationTesting\library\selenium-server-standalone-2.53.1.jar org.testng.remote.RemoteTestNG -serport 20818 -protocol json -d C:\Users\srinivas1\Desktop\IrfanSelenium\Testing\test-output C:\Users\SRINIV~1\AppData\Local\Temp\testng-eclipse--916897449\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-10-22 22:34:54.235
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\srinivas1\Desktop\Neoneclipse\configuration\org.eclipse.osgi\969\0\.cp\lib\testng-remote.jar C:\Users\srinivas1\Desktop\IrfanSelenium\Testing\bin C:\Users\srinivas1\Desktop\KrishnaSelenium\WebApplicationTesting\library\selenium-server-standalone-2.53.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 20862 -protocol json -d C:\Users\srinivas1\Desktop\IrfanSelenium\Testing\test-output C:\Users\SRINIV~1\AppData\Local\Temp\testng-eclipse--892227547\testng-customsuite.xml
+java -ea -classpath C:\Users\srinivas1\Desktop\Neoneclipse\configuration\org.eclipse.osgi\969\0\.cp\lib\testng-remote.jar:C:\Users\srinivas1\Desktop\IrfanSelenium\Testing\bin:C:\Users\srinivas1\Desktop\KrishnaSelenium\WebApplicationTesting\library\selenium-server-standalone-2.53.1.jar org.testng.remote.RemoteTestNG -serport 20862 -protocol json -d C:\Users\srinivas1\Desktop\IrfanSelenium\Testing\test-output C:\Users\SRINIV~1\AppData\Local\Temp\testng-eclipse--892227547\testng-customsuite.xml
